@@ -1,4 +1,4 @@
-package com.cp.mybanner;
+package com.cp.bannerlibrary;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
